@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="withered.png">
+<SubTexture name="withered idle0000" x="1203" y="360" width="598" height="355" frameX="-34" frameY="-5" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered idle0001" x="1203" y="715" width="599" height="353" frameX="-34" frameY="-7" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered idle0002" x="0" y="0" width="601" height="360" frameX="-33" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered idle0003" x="601" y="0" width="602" height="360" frameX="-32" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered idle0004" x="0" y="360" width="602" height="360" frameX="-32" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered enter0000" x="602" y="360" width="598" height="360" frameX="-34" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered enter0001" x="611" y="1080" width="600" height="352" frameX="-32" frameY="-8" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered enter0002" x="0" y="720" width="608" height="360" frameX="-31" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered enter0003" x="1203" y="0" width="609" height="360" frameX="-31" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="withered enter0004" x="0" y="1080" width="611" height="360" frameX="-29" frameY="0" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

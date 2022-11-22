@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toy toy.png">
+<SubTexture name="toy toy idle0000" x="0" y="0" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy idle0001" x="537" y="0" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy idle0002" x="0" y="360" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy idle0003" x="537" y="360" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy idle0004" x="1074" y="0" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy idle0005" x="1074" y="360" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy0000" x="0" y="720" width="537" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy0001" x="537" y="720" width="535" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy0002" x="1072" y="720" width="533" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy0003" x="0" y="1080" width="532" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy0004" x="532" y="1080" width="531" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="toy toy0005" x="1063" y="1080" width="533" height="360" frameX="-84" frameY="0" frameWidth="640" frameHeight="360" />
+</TextureAtlas>
