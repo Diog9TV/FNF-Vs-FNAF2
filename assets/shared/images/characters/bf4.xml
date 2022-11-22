@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf4.png" width="1988" height="1908">
+  <SubTexture name="attack0011.png" x="0" y="0"  width="359" height="285" frameX="-807" frameY="-897" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN0002.png" x="359" y="0"  width="331" height="274" frameX="-896" frameY="-880" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0006.png" x="690" y="0" width="327" height="257" rotated="true"  frameX="-918" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0005.png" x="1017" y="0" width="325" height="257" rotated="true"  frameX="-918" frameY="-856" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT0000.png" x="1342" y="0" width="323" height="255" rotated="true"  frameX="-898" frameY="-856" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE UP0000.png" x="1665" y="0" width="323" height="262" rotated="true"  frameX="-892" frameY="-865" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE UP0001.png" x="1342" y="255" width="321" height="269" rotated="true"  frameX="-891" frameY="-867" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT0001.png" x="1663" y="262" width="320" height="258" rotated="true"  frameX="-898" frameY="-859" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0004.png" x="1663" y="520" width="319" height="257" rotated="true"  frameX="-918" frameY="-862" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0001.png" x="690" y="257"  width="318" height="308" frameX="-857" frameY="-873" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT0002.png" x="359" y="274" width="317" height="263" rotated="true"  frameX="-898" frameY="-862" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE UP0002.png" x="1008" y="257" width="316" height="266" rotated="true"  frameX="-898" frameY="-871" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0003.png" x="1008" y="523" width="313" height="257" rotated="true"  frameX="-918" frameY="-868" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0002.png" x="1321" y="524" width="310" height="290" rotated="true"  frameX="-885" frameY="-871" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0002.png" x="0" y="285"  width="309" height="290" frameX="-841" frameY="-888" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0008.png" x="309" y="537" width="304" height="264" rotated="true"  frameX="-892" frameY="-875" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0000.png" x="0" y="575" width="304" height="301" rotated="true"  frameX="-875" frameY="-876" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0004.png" x="613" y="565" width="303" height="281" rotated="true"  frameX="-872" frameY="-874" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0007.png" x="304" y="801" width="303" height="265" rotated="true"  frameX="-892" frameY="-876" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0005.png" x="0" y="876" width="302" height="263" rotated="true"  frameX="-892" frameY="-877" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0007.png" x="916" y="780" width="298" height="257" rotated="true"  frameX="-918" frameY="-884" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0009.png" x="607" y="846" width="297" height="264" rotated="true"  frameX="-892" frameY="-882" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0006.png" x="302" y="1066" width="296" height="265" rotated="true"  frameX="-892" frameY="-883" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0001.png" x="0" y="1139" width="290" height="261" rotated="true"  frameX="-890" frameY="-888" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0003.png" x="1631" y="777" width="290" height="261" rotated="true"  frameX="-891" frameY="-889" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0009.png" x="1214" y="814"  width="289" height="283" frameX="-886" frameY="-899" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0000.png" x="904" y="1037" width="287" height="265" rotated="true"  frameX="-890" frameY="-891" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0010.png" x="598" y="1110"  width="282" height="264" frameX="-867" frameY="-917" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="attack0008.png" x="290" y="1331" width="272" height="255" rotated="true"  frameX="-892" frameY="-910" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN0001.png" x="0" y="1400" width="269" height="243" rotated="true"  frameX="-899" frameY="-885" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN0000.png" x="0" y="1643"  width="242" height="265" frameX="-901" frameY="-889" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT0002.png" x="242" y="1643"  width="239" height="265" frameX="-888" frameY="-890" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT0001.png" x="481" y="1586"  width="240" height="264" frameX="-887" frameY="-891" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT0000.png" x="1503" y="1038" width="263" height="238" rotated="true"  frameX="-888" frameY="-892" frameWidth="2048" frameHeight="2048"/>
+</TextureAtlas>

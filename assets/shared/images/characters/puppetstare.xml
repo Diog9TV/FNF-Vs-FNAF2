@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="puppetstare.png">
+<SubTexture name="idle0000" x="369" y="715" width="182" height="334" frameX="-226" frameY="-26" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0001" x="717" y="336" width="182" height="335" frameX="-227" frameY="-25" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0002" x="717" y="0" width="182" height="336" frameX="-226" frameY="-24" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0003" x="899" y="0" width="183" height="336" frameX="-226" frameY="-24" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0004" x="899" y="336" width="183" height="336" frameX="-225" frameY="-24" frameWidth="640" frameHeight="360" />
+<SubTexture name="idle0005" x="185" y="715" width="184" height="335" frameX="-225" frameY="-25" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0000" x="0" y="715" width="185" height="336" frameX="-224" frameY="-24" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0001" x="360" y="360" width="181" height="343" frameX="-227" frameY="-17" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0002" x="180" y="360" width="180" height="348" frameX="-228" frameY="-12" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0003" x="0" y="360" width="180" height="355" frameX="-228" frameY="-5" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0004" x="358" y="0" width="179" height="359" frameX="-229" frameY="-1" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0005" x="0" y="0" width="179" height="360" frameX="-229" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0006" x="537" y="0" width="180" height="359" frameX="-228" frameY="-1" frameWidth="640" frameHeight="360" />
+<SubTexture name="stare0007" x="179" y="0" width="179" height="360" frameX="-229" frameY="0" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

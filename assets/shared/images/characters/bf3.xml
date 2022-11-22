@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf3.png" width="1433" height="1957">
+  <SubTexture name="BF NOTE UP MISS0000.png" x="0" y="0"  width="236" height="331" frameX="-895" frameY="-858" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE UP0000.png" x="0" y="331"  width="237" height="331" frameX="-893" frameY="-857" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE UP0001.png" x="236" y="0"  width="235" height="330" frameX="-893" frameY="-858" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0005.png" x="0" y="662"  width="250" height="328" frameX="-916" frameY="-848" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE UP0002.png" x="237" y="330"  width="233" height="327" frameX="-894" frameY="-862" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0003.png" x="0" y="990"  width="234" height="323" frameX="-912" frameY="-860" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0006.png" x="0" y="1313"  width="233" height="322" frameX="-916" frameY="-854" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0007.png" x="0" y="1635"  width="236" height="322" frameX="-913" frameY="-854" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0008.png" x="233" y="1313"  width="235" height="321" frameX="-913" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0009.png" x="234" y="990"  width="236" height="321" frameX="-912" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0004.png" x="250" y="657"  width="233" height="318" frameX="-915" frameY="-858" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0002.png" x="470" y="330"  width="237" height="314" frameX="-907" frameY="-862" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT0002.png" x="471" y="0"  width="260" height="313" frameX="-884" frameY="-863" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT MISS0000.png" x="236" y="1634"  width="268" height="312" frameX="-871" frameY="-863" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT0000.png" x="468" y="1311"  width="268" height="312" frameX="-872" frameY="-864" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE LEFT0001.png" x="470" y="975"  width="263" height="312" frameX="-879" frameY="-863" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0000.png" x="483" y="644"  width="245" height="311" frameX="-893" frameY="-865" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF idle dance0001.png" x="707" y="313"  width="262" height="311" frameX="-899" frameY="-865" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT0002.png" x="731" y="0"  width="240" height="310" frameX="-900" frameY="-869" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT MISS0000.png" x="728" y="624"  width="244" height="309" frameX="-900" frameY="-871" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT0000.png" x="969" y="310"  width="250" height="309" frameX="-894" frameY="-871" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE RIGHT0001.png" x="971" y="0"  width="242" height="309" frameX="-900" frameY="-870" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN0002.png" x="1213" y="0"  width="220" height="292" frameX="-913" frameY="-864" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN0001.png" x="733" y="933"  width="235" height="287" frameX="-898" frameY="-869" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN MISS0000.png" x="504" y="1623"  width="247" height="284" frameX="-886" frameY="-872" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="BF NOTE DOWN0000.png" x="736" y="1220"  width="284" height="284" frameX="-886" frameY="-873" frameWidth="2048" frameHeight="2048"/>
+</TextureAtlas>

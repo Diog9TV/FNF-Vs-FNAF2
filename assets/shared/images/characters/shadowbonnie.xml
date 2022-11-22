@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shadowbonnie.png">
+<SubTexture name="Dad Sing Note DOWN0000" x="415" y="343" width="223" height="198" frameX="-895" frameY="-916" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note DOWN0001" x="0" y="582" width="236" height="196" frameX="-889" frameY="-917" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note DOWN0002" x="236" y="582" width="245" height="191" frameX="-886" frameY="-921" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note LEFT0000" x="658" y="0" width="407" height="235" frameX="-811" frameY="-916" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note LEFT0001" x="0" y="343" width="415" height="239" frameX="-794" frameY="-909" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note LEFT0002" x="288" y="0" width="370" height="240" frameX="-824" frameY="-903" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note RIGHT0000" x="658" y="235" width="367" height="221" frameX="-826" frameY="-920" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note RIGHT0001" x="262" y="778" width="351" height="165" frameX="-835" frameY="-932" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note RIGHT0002" x="613" y="778" width="329" height="157" frameX="-845" frameY="-933" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note UP0000" x="481" y="582" width="254" height="189" frameX="-901" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note UP0001" x="0" y="778" width="262" height="181" frameX="-894" frameY="-955" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note UP0002" x="735" y="582" width="262" height="185" frameX="-895" frameY="-956" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad idle dance0000" x="144" y="0" width="144" height="342" frameX="-944" frameY="-869" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad idle dance0001" x="0" y="0" width="144" height="343" frameX="-944" frameY="-869" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

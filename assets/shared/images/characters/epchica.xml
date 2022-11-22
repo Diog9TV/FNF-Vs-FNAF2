@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="epchica.png">
+<SubTexture name="Dad Sing Note DOWN0000" x="2974" y="277" width="240" height="268" frameX="-18" frameY="-40" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0001" x="2439" y="2419" width="251" height="279" frameX="-12" frameY="-29" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0002" x="1896" y="2419" width="263" height="290" frameX="-7" frameY="-18" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0003" x="673" y="2419" width="273" height="299" frameX="-3" frameY="-9" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0004" x="2689" y="1841" width="280" height="304" frameX="-1" frameY="-4" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0005" x="2689" y="616" width="284" height="307" frameX="0" frameY="-1" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0006" x="2689" y="0" width="285" height="308" frameX="0" frameY="0" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note DOWN0007" x="2689" y="923" width="285" height="307" frameX="-1" frameY="-1" frameWidth="285" frameHeight="308" />
+<SubTexture name="Dad Sing Note LEFT0000" x="2411" y="0" width="278" height="330" frameX="0" frameY="-10" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0001" x="533" y="1754" width="272" height="333" frameX="-6" frameY="-7" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0002" x="268" y="1754" width="265" height="335" frameX="-13" frameY="-5" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0003" x="1956" y="0" width="259" height="336" frameX="-19" frameY="-4" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0004" x="1194" y="1414" width="254" height="337" frameX="-24" frameY="-3" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0005" x="942" y="1414" width="252" height="338" frameX="-26" frameY="-2" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0006" x="0" y="1414" width="251" height="340" frameX="-27" frameY="0" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note LEFT0007" x="251" y="1414" width="252" height="340" frameX="-26" frameY="0" frameWidth="278" frameHeight="340" />
+<SubTexture name="Dad Sing Note RIGHT0000" x="2974" y="0" width="286" height="277" frameX="0" frameY="-47" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0001" x="2159" y="2419" width="280" height="288" frameX="0" frameY="-35" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0002" x="946" y="2419" width="275" height="299" frameX="0" frameY="-24" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0003" x="2689" y="308" width="270" height="308" frameX="-1" frameY="-15" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0004" x="1889" y="2090" width="266" height="314" frameX="-3" frameY="-9" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0005" x="1391" y="2090" width="264" height="318" frameX="-5" frameY="-5" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0006" x="897" y="2090" width="262" height="321" frameX="-6" frameY="-2" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note RIGHT0007" x="207" y="2090" width="262" height="323" frameX="-7" frameY="0" frameWidth="286" frameHeight="323" />
+<SubTexture name="Dad Sing Note UP0000" x="1159" y="2090" width="232" height="319" frameX="0" frameY="-41" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0001" x="1956" y="1005" width="225" height="333" frameX="-3" frameY="-27" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0002" x="809" y="1067" width="218" height="345" frameX="-6" frameY="-15" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0003" x="566" y="360" width="212" height="353" frameX="-10" frameY="-7" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0004" x="626" y="0" width="210" height="357" frameX="-11" frameY="-3" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0005" x="208" y="0" width="209" height="359" frameX="-13" frameY="-1" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0006" x="0" y="0" width="208" height="360" frameX="-13" frameY="0" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0007" x="417" y="0" width="209" height="359" frameX="-13" frameY="-1" frameWidth="232" frameHeight="360" />
+<SubTexture name="Dad idle dance0000" x="0" y="360" width="283" height="354" frameX="-8" frameY="0" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0001" x="836" y="0" width="279" height="353" frameX="-10" frameY="-1" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0002" x="836" y="353" width="272" height="352" frameX="-13" frameY="-2" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0003" x="839" y="714" width="268" height="351" frameX="-13" frameY="-3" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0004" x="1115" y="351" width="265" height="350" frameX="-11" frameY="-4" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0005" x="1115" y="701" width="263" height="349" frameX="-9" frameY="-5" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0006" x="1397" y="349" width="262" height="348" frameX="-7" frameY="-6" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0007" x="0" y="1067" width="262" height="347" frameX="-5" frameY="-7" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0008" x="262" y="1067" width="266" height="346" frameX="-2" frameY="-8" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0009" x="0" y="1754" width="268" height="336" frameX="-1" frameY="-18" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0010" x="1448" y="1414" width="272" height="337" frameX="0" frameY="-17" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0011" x="1306" y="1067" width="275" height="344" frameX="-1" frameY="-10" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0012" x="1679" y="0" width="277" height="344" frameX="-3" frameY="-10" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0013" x="1027" y="1067" width="279" height="345" frameX="-5" frameY="-9" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0014" x="528" y="1067" width="281" height="346" frameX="-6" frameY="-8" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0015" x="1397" y="697" width="281" height="348" frameX="-7" frameY="-6" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0016" x="1397" y="0" width="282" height="349" frameX="-8" frameY="-5" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0017" x="1115" y="0" width="282" height="351" frameX="-8" frameY="-3" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0018" x="283" y="714" width="283" height="352" frameX="-8" frameY="-2" frameWidth="291" frameHeight="354" />
+<SubTexture name="Dad idle dance0019" x="0" y="714" width="283" height="353" frameX="-8" frameY="-1" frameWidth="291" frameHeight="354" />
+<SubTexture name="beak0000" x="283" y="360" width="283" height="354" frameX="0" frameY="0" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0001" x="566" y="714" width="273" height="352" frameX="-15" frameY="-2" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0002" x="469" y="2090" width="197" height="323" frameX="-77" frameY="-31" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0003" x="2155" y="2090" width="198" height="312" frameX="-73" frameY="-42" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0004" x="2689" y="1536" width="211" height="305" frameX="-67" frameY="-49" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0005" x="0" y="2419" width="220" height="302" frameX="-62" frameY="-52" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0006" x="452" y="2419" width="221" height="300" frameX="-56" frameY="-54" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0007" x="1221" y="2419" width="221" height="299" frameX="-51" frameY="-55" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0008" x="1442" y="2419" width="225" height="299" frameX="-44" frameY="-55" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0009" x="1667" y="2419" width="229" height="299" frameX="-38" frameY="-55" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0010" x="220" y="2419" width="232" height="302" frameX="-32" frameY="-52" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0011" x="2689" y="1230" width="234" height="306" frameX="-28" frameY="-48" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0012" x="2353" y="2090" width="235" height="311" frameX="-26" frameY="-43" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0013" x="1655" y="2090" width="234" height="317" frameX="-25" frameY="-37" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0014" x="666" y="2090" width="231" height="323" frameX="-27" frameY="-31" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0015" x="2411" y="1320" width="226" height="329" frameX="-31" frameY="-25" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0016" x="1956" y="336" width="222" height="335" frameX="-36" frameY="-19" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0017" x="503" y="1414" width="219" height="339" frameX="-40" frameY="-15" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0018" x="1679" y="686" width="217" height="341" frameX="-45" frameY="-13" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0019" x="1679" y="344" width="216" height="342" frameX="-48" frameY="-12" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0020" x="1679" y="1027" width="217" height="341" frameX="-51" frameY="-13" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0021" x="722" y="1414" width="220" height="339" frameX="-52" frameY="-15" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0022" x="1720" y="1414" width="222" height="337" frameX="-53" frameY="-17" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0023" x="1956" y="671" width="222" height="334" frameX="-54" frameY="-20" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0024" x="1956" y="1338" width="220" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0025" x="2411" y="330" width="217" height="330" frameX="-54" frameY="-24" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0026" x="2411" y="1649" width="212" height="329" frameX="-54" frameY="-25" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0027" x="0" y="2090" width="207" height="329" frameX="-54" frameY="-25" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0028" x="2411" y="660" width="202" height="330" frameX="-54" frameY="-24" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0029" x="2411" y="990" width="198" height="330" frameX="-54" frameY="-24" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0030" x="2215" y="0" width="196" height="331" frameX="-54" frameY="-23" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0031" x="805" y="1754" width="195" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0032" x="1000" y="1754" width="195" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0033" x="1195" y="1754" width="196" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0034" x="1391" y="1754" width="197" height="332" frameX="-55" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0035" x="1588" y="1754" width="199" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0036" x="1787" y="1754" width="200" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0037" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0038" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0039" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0040" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0041" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0042" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0043" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0044" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0045" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0046" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0047" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0048" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0049" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0050" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0051" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0052" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0053" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0054" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0055" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0056" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0057" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0058" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0059" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0060" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0061" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0062" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0063" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0064" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0065" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0066" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0067" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0068" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0069" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0070" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0071" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0072" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0073" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0074" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0075" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0076" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0077" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0078" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0079" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0080" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0081" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0082" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0083" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0084" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0085" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0086" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0087" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0088" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0089" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+<SubTexture name="beak0090" x="1987" y="1754" width="201" height="332" frameX="-54" frameY="-22" frameWidth="287" frameHeight="354" />
+</TextureAtlas>
