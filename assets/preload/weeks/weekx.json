@@ -1,0 +1,44 @@
+{
+	"storyName": "The FINALE",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "finale",
+	"weekBefore": "weekw",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"finale",
+		""
+	],
+	"songs": [
+		[
+			"eternal-playdate",
+			"tfed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"your-old-friends",
+			"wfred",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"golden-vengeance",
+			"golden",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekf"
+}

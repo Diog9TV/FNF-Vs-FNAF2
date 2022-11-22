@@ -1,0 +1,53 @@
+{
+	"storyName": "Something Borrowed ...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "withered",
+	"weekBefore": "weekt",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"withered",
+		""
+	],
+	"songs": [
+		[
+			"fallen-star",
+			"wfred",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"faceless",
+			"wbon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"broken-jaws",
+			"wchic",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"pirate's-curse",
+			"wfox",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week W"
+}

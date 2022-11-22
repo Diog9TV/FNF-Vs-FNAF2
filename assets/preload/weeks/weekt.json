@@ -1,0 +1,53 @@
+{
+	"storyName": "Something New !",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "toy",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"toy",
+		""
+	],
+	"songs": [
+		[
+			"join-the-band",
+			"tfed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hop-to-it",
+			"tbon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"pecking-order",
+			"tchic",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cerberus",
+			"mang",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week T"
+}
