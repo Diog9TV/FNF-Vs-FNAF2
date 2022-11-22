@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stare",
+			"indices": [],
+			"name": "stare"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/puppetstare",
+	"position": [
+		300,
+		170
+	],
+	"healthicon": "bfred",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-140,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 2.8
+}
