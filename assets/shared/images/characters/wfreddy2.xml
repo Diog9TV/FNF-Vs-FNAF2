@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="wfreddy2.png" width="877" height="1994">
+  <SubTexture name="Dad Sing Note UP0002.png" x="0" y="0"  width="174" height="338" frameX="-923" frameY="-852" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note UP0001.png" x="0" y="338"  width="175" height="336" frameX="-922" frameY="-854" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note UP0000.png" x="174" y="0"  width="212" height="335" frameX="-922" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0008.png" x="0" y="674"  width="153" height="331" frameX="-953" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0009.png" x="0" y="1005"  width="152" height="331" frameX="-953" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0007.png" x="0" y="1336"  width="159" height="330" frameX="-953" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0010.png" x="152" y="1005"  width="152" height="330" frameX="-953" frameY="-855" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0006.png" x="153" y="674"  width="151" height="329" frameX="-954" frameY="-856" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0011.png" x="175" y="335"  width="153" height="329" frameX="-952" frameY="-856" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note RIGHT0002.png" x="0" y="1666"  width="235" height="328" frameX="-905" frameY="-858" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0005.png" x="159" y="1335"  width="169" height="327" frameX="-949" frameY="-858" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note RIGHT0001.png" x="235" y="1662"  width="233" height="326" frameX="-907" frameY="-860" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0000.png" x="304" y="664"  width="147" height="325" frameX="-953" frameY="-862" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0004.png" x="328" y="335"  width="165" height="325" frameX="-953" frameY="-860" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note RIGHT0000.png" x="386" y="0"  width="223" height="323" frameX="-912" frameY="-863" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0003.png" x="304" y="989"  width="148" height="322" frameX="-952" frameY="-863" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0002.png" x="451" y="660"  width="147" height="321" frameX="-952" frameY="-865" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad idle dance0001.png" x="493" y="323"  width="155" height="320" frameX="-952" frameY="-866" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note LEFT0002.png" x="609" y="0"  width="268" height="307" frameX="-898" frameY="-861" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note LEFT0001.png" x="328" y="1311"  width="250" height="304" frameX="-894" frameY="-865" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note LEFT0000.png" x="452" y="981"  width="257" height="299" frameX="-889" frameY="-870" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note DOWN0002.png" x="598" y="643"  width="180" height="287" frameX="-929" frameY="-864" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note DOWN0001.png" x="648" y="307"  width="181" height="278" frameX="-929" frameY="-874" frameWidth="2048" frameHeight="2048"/>
+  <SubTexture name="Dad Sing Note DOWN0000.png" x="468" y="1615"  width="180" height="268" frameX="-929" frameY="-884" frameWidth="2048" frameHeight="2048"/>
+</TextureAtlas>

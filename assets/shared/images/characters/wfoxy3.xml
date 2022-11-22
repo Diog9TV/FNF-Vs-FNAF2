@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wfoxy3.png">
+<SubTexture name="Dad Sing Note DOWN0000" x="3215" y="1520" width="190" height="296" frameX="-258" frameY="-64" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note DOWN0001" x="3215" y="1219" width="190" height="301" frameX="-258" frameY="-59" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note DOWN0002" x="2304" y="2124" width="183" height="312" frameX="-258" frameY="-48" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note DOWN0003" x="2507" y="1980" width="181" height="319" frameX="-258" frameY="-41" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note DOWN0004" x="2978" y="328" width="180" height="327" frameX="-258" frameY="-33" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note DOWN0005" x="2978" y="655" width="177" height="327" frameX="-258" frameY="-33" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note LEFT0000" x="1770" y="2469" width="319" height="335" frameX="-105" frameY="-25" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note LEFT0001" x="750" y="2124" width="311" height="344" frameX="-113" frameY="-16" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note LEFT0002" x="1491" y="1424" width="296" height="349" frameX="-128" frameY="-11" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note LEFT0003" x="156" y="1424" width="284" height="351" frameX="-140" frameY="-9" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note LEFT0004" x="990" y="1071" width="275" height="352" frameX="-149" frameY="-8" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note LEFT0005" x="1861" y="0" width="272" height="349" frameX="-152" frameY="-11" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note RIGHT0000" x="3215" y="2110" width="324" height="283" frameX="-256" frameY="-77" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note RIGHT0001" x="3215" y="1816" width="336" height="294" frameX="-240" frameY="-66" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note RIGHT0002" x="3215" y="916" width="333" height="303" frameX="-229" frameY="-57" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note RIGHT0003" x="3215" y="0" width="336" height="308" frameX="-224" frameY="-52" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note RIGHT0004" x="2537" y="2811" width="329" height="311" frameX="-223" frameY="-49" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note RIGHT0005" x="1944" y="2811" width="327" height="312" frameX="-224" frameY="-48" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0000" x="1861" y="1395" width="168" height="347" frameX="-256" frameY="-13" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0001" x="440" y="1424" width="166" height="351" frameX="-258" frameY="-9" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0002" x="1265" y="1071" width="166" height="352" frameX="-258" frameY="-8" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0003" x="769" y="356" width="166" height="355" frameX="-258" frameY="-5" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0004" x="1004" y="0" width="166" height="355" frameX="-258" frameY="-5" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad Sing Note UP0005" x="0" y="360" width="166" height="356" frameX="-258" frameY="-4" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0000" x="1691" y="2811" width="253" height="316" frameX="-220" frameY="-44" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0001" x="3215" y="308" width="273" height="304" frameX="-209" frameY="-56" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0002" x="3215" y="612" width="278" height="304" frameX="-209" frameY="-56" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0003" x="2866" y="2811" width="276" height="309" frameX="-211" frameY="-51" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0004" x="2271" y="2811" width="266" height="312" frameX="-216" frameY="-48" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0005" x="971" y="2811" width="257" height="319" frameX="-223" frameY="-41" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0006" x="728" y="2811" width="243" height="322" frameX="-230" frameY="-38" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0007" x="2089" y="2469" width="245" height="328" frameX="-235" frameY="-32" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0008" x="0" y="2811" width="247" height="327" frameX="-241" frameY="-33" frameWidth="640" frameHeight="360" />
+<SubTexture name="Dad idle dance0009" x="2334" y="2469" width="240" height="328" frameX="-248" frameY="-32" frameWidth="640" frameHeight="360" />
+<SubTexture name="avasty0000" x="2978" y="982" width="237" height="327" frameX="-12" frameY="-33" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0001" x="2978" y="1309" width="236" height="327" frameX="-16" frameY="-33" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0002" x="2574" y="2469" width="239" height="328" frameX="-18" frameY="-32" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0003" x="247" y="2811" width="241" height="327" frameX="-21" frameY="-33" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0004" x="488" y="2811" width="240" height="326" frameX="-23" frameY="-34" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0005" x="2978" y="2288" width="235" height="324" frameX="-24" frameY="-36" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0006" x="1228" y="2811" width="232" height="319" frameX="-24" frameY="-41" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0007" x="1460" y="2811" width="231" height="317" frameX="-24" frameY="-43" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0008" x="2507" y="1660" width="223" height="320" frameX="-24" frameY="-40" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0009" x="2978" y="1963" width="210" height="325" frameX="-24" frameY="-35" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0010" x="2742" y="1365" width="196" height="334" frameX="-24" frameY="-26" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0011" x="2312" y="345" width="179" height="344" frameX="-24" frameY="-16" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0012" x="612" y="0" width="157" height="357" frameX="-24" frameY="-3" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0013" x="0" y="0" width="136" height="360" frameX="-24" frameY="0" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0014" x="1004" y="355" width="140" height="355" frameX="-16" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0015" x="0" y="716" width="149" height="355" frameX="-5" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0016" x="149" y="716" width="148" height="355" frameX="-5" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0017" x="817" y="716" width="145" height="354" frameX="-8" frameY="-6" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0018" x="166" y="360" width="140" height="356" frameX="-14" frameY="-4" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0019" x="306" y="360" width="133" height="356" frameX="-21" frameY="-4" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0020" x="439" y="360" width="130" height="356" frameX="-24" frameY="-4" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0021" x="569" y="360" width="130" height="356" frameX="-24" frameY="-4" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0022" x="297" y="716" width="130" height="355" frameX="-24" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0023" x="427" y="716" width="130" height="355" frameX="-24" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0024" x="557" y="716" width="130" height="355" frameX="-24" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0025" x="687" y="716" width="130" height="355" frameX="-24" frameY="-5" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0026" x="962" y="716" width="132" height="354" frameX="-24" frameY="-6" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0027" x="1170" y="0" width="134" height="354" frameX="-24" frameY="-6" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0028" x="1304" y="0" width="135" height="354" frameX="-24" frameY="-6" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0029" x="0" y="1071" width="135" height="353" frameX="-25" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0030" x="135" y="1071" width="135" height="353" frameX="-25" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0031" x="1439" y="0" width="137" height="352" frameX="-24" frameY="-8" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0032" x="270" y="1071" width="137" height="353" frameX="-24" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0033" x="1304" y="354" width="134" height="354" frameX="-25" frameY="-6" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0034" x="1304" y="708" width="135" height="354" frameX="-24" frameY="-6" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0035" x="407" y="1071" width="137" height="353" frameX="-25" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0036" x="1576" y="0" width="141" height="352" frameX="-24" frameY="-8" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0037" x="1717" y="0" width="144" height="352" frameX="-24" frameY="-8" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0038" x="544" y="1071" width="146" height="353" frameX="-25" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0039" x="690" y="1071" width="149" height="353" frameX="-25" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0040" x="839" y="1071" width="151" height="353" frameX="-25" frameY="-7" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0041" x="0" y="1424" width="156" height="352" frameX="-24" frameY="-8" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0042" x="606" y="1424" width="164" height="351" frameX="-24" frameY="-9" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0043" x="1861" y="1047" width="170" height="348" frameX="-24" frameY="-12" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0044" x="1941" y="1776" width="172" height="345" frameX="-25" frameY="-15" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0045" x="2312" y="1033" width="176" height="343" frameX="-24" frameY="-17" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0046" x="2312" y="1376" width="178" height="342" frameX="-24" frameY="-18" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0047" x="2312" y="1718" width="179" height="342" frameX="-24" frameY="-18" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0048" x="2312" y="689" width="180" height="344" frameX="-24" frameY="-16" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0049" x="2133" y="0" width="179" height="345" frameX="-25" frameY="-15" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0050" x="1308" y="1776" width="179" height="346" frameX="-24" frameY="-14" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0051" x="1487" y="1776" width="179" height="346" frameX="-24" frameY="-14" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0052" x="2312" y="0" width="195" height="345" frameX="-24" frameY="-15" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0053" x="0" y="2124" width="234" height="345" frameX="-25" frameY="-15" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0054" x="1061" y="2124" width="248" height="344" frameX="-24" frameY="-16" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0055" x="2065" y="2124" width="239" height="343" frameX="-24" frameY="-17" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0056" x="2507" y="0" width="235" height="342" frameX="-24" frameY="-18" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0057" x="2742" y="342" width="233" height="341" frameX="-24" frameY="-19" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0058" x="2742" y="683" width="233" height="341" frameX="-24" frameY="-19" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0059" x="2742" y="1024" width="234" height="341" frameX="-24" frameY="-19" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0060" x="2742" y="0" width="236" height="342" frameX="-24" frameY="-18" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0061" x="1309" y="2124" width="237" height="344" frameX="-24" frameY="-16" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0062" x="554" y="1776" width="237" height="347" frameX="-24" frameY="-13" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0063" x="1861" y="349" width="237" height="349" frameX="-24" frameY="-11" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0064" x="770" y="1424" width="237" height="350" frameX="-24" frameY="-10" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0065" x="1007" y="1424" width="238" height="350" frameX="-24" frameY="-10" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0066" x="1861" y="698" width="239" height="349" frameX="-24" frameY="-11" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0067" x="791" y="1776" width="247" height="347" frameX="-17" frameY="-13" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0068" x="234" y="2124" width="254" height="345" frameX="-11" frameY="-15" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0069" x="0" y="2469" width="258" height="342" frameX="-6" frameY="-18" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0070" x="513" y="2469" width="259" height="339" frameX="-2" frameY="-21" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0071" x="1016" y="2469" width="258" height="337" frameX="0" frameY="-23" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0072" x="1274" y="2469" width="252" height="337" frameX="-4" frameY="-23" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0073" x="772" y="2469" width="244" height="338" frameX="-11" frameY="-22" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0074" x="769" y="0" width="235" height="356" frameX="-22" frameY="-4" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0075" x="136" y="0" width="236" height="360" frameX="-24" frameY="0" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0076" x="372" y="0" width="240" height="360" frameX="-24" frameY="0" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0077" x="1245" y="1424" width="246" height="350" frameX="-24" frameY="-10" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0078" x="1546" y="2124" width="252" height="344" frameX="-24" frameY="-16" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0079" x="488" y="2124" width="262" height="345" frameX="-24" frameY="-15" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0080" x="1038" y="1776" width="270" height="347" frameX="-24" frameY="-13" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0081" x="0" y="1776" width="276" height="348" frameX="-21" frameY="-12" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0082" x="276" y="1776" width="278" height="348" frameX="-16" frameY="-12" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0083" x="1666" y="1776" width="275" height="346" frameX="-12" frameY="-14" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0084" x="1798" y="2124" width="267" height="344" frameX="-11" frameY="-16" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0085" x="258" y="2469" width="255" height="340" frameX="-11" frameY="-20" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0086" x="1526" y="2469" width="244" height="336" frameX="-12" frameY="-24" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0087" x="2742" y="2030" width="236" height="330" frameX="-13" frameY="-30" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0088" x="2507" y="1002" width="230" height="329" frameX="-14" frameY="-31" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0089" x="2742" y="1699" width="230" height="331" frameX="-13" frameY="-29" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0090" x="2507" y="342" width="230" height="330" frameX="-12" frameY="-30" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0091" x="2507" y="672" width="233" height="330" frameX="-12" frameY="-30" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0092" x="2507" y="1331" width="235" height="329" frameX="-12" frameY="-31" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0093" x="2978" y="1636" width="236" height="327" frameX="-12" frameY="-33" frameWidth="296" frameHeight="360" />
+<SubTexture name="avasty0094" x="2978" y="0" width="237" height="328" frameX="-12" frameY="-32" frameWidth="296" frameHeight="360" />
+</TextureAtlas>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tchica2.png">
+	
+	
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="148" height="282" pivotX="21" pivotY="6" frameX="-11" frameY="-30" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note DOWN0001" x="148" y="0" width="156" height="291" frameX="-8" frameY="-21" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note DOWN0002" x="305" y="0" width="164" height="299" frameX="-5" frameY="-13" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note DOWN0003" x="469" y="0" width="171" height="305" frameX="-3" frameY="-7" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note DOWN0004" x="640" y="0" width="176" height="309" frameX="-1" frameY="-3" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note DOWN0005" x="817" y="0" width="179" height="311" frameX="-1" frameY="-1" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note DOWN0006" x="996" y="0" width="180" height="312" />
+	<SubTexture name="Dad Sing Note DOWN0007" x="1177" y="0" width="180" height="311" frameX="-1" frameY="-1" frameWidth="180" frameHeight="312" />
+	<SubTexture name="Dad Sing Note LEFT0000" x="1357" y="0" width="204" height="332" pivotX="0" pivotY="12" frameX="0" frameY="-8" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0001" x="1561" y="0" width="198" height="333" frameX="-6" frameY="-6" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0002" x="1759" y="0" width="191" height="335" frameX="-13" frameY="-5" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0003" x="1951" y="0" width="186" height="336" frameX="-19" frameY="-4" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0004" x="2137" y="0" width="181" height="337" frameX="-24" frameY="-3" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0005" x="2318" y="0" width="179" height="338" frameX="-26" frameY="-1" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0006" x="0" y="338" width="178" height="339" frameX="-27" frameY="0" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note LEFT0007" x="178" y="338" width="179" height="339" frameX="-26" frameY="0" frameWidth="205" frameHeight="339" />
+	<SubTexture name="Dad Sing Note RIGHT0000" x="358" y="338" width="218" height="287" pivotX="2" pivotY="17" frameX="-1" frameY="-33" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0001" x="576" y="338" width="213" height="294" frameX="0" frameY="-26" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0002" x="789" y="338" width="207" height="302" frameX="0" frameY="-18" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0003" x="996" y="338" width="202" height="309" frameX="-1" frameY="-11" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0004" x="1198" y="338" width="198" height="313" frameX="-3" frameY="-7" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0005" x="1396" y="338" width="194" height="316" frameX="-5" frameY="-4" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0006" x="1591" y="338" width="193" height="318" frameX="-6" frameY="-2" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note RIGHT0007" x="1784" y="338" width="192" height="320" frameX="-6" frameY="0" frameWidth="219" frameHeight="320" />
+	<SubTexture name="Dad Sing Note UP0000" x="1976" y="338" width="160" height="327" pivotX="0" pivotY="45" frameX="0" frameY="-27" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0001" x="2136" y="338" width="155" height="337" frameX="-5" frameY="-17" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0002" x="2292" y="338" width="149" height="345" frameX="-10" frameY="-9" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0003" x="0" y="684" width="145" height="350" frameX="-13" frameY="-4" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0004" x="145" y="684" width="144" height="353" frameX="-15" frameY="-2" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0005" x="289" y="684" width="143" height="354" frameX="-17" frameY="0" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0006" x="432" y="684" width="143" height="354" frameX="-17" frameY="0" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad Sing Note UP0007" x="575" y="684" width="143" height="354" frameX="-17" frameY="0" frameWidth="160" frameHeight="354" />
+	<SubTexture name="Dad idle dance0000" x="718" y="684" width="182" height="347" pivotX="9" pivotY="0" frameX="-5" frameY="0" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0001" x="900" y="684" width="179" height="347" frameX="-7" frameY="-1" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0002" x="1079" y="684" width="174" height="346" frameX="-9" frameY="-1" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0003" x="1254" y="684" width="171" height="346" frameX="-10" frameY="-2" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0004" x="1425" y="684" width="169" height="345" frameX="-9" frameY="-2" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0005" x="1594" y="684" width="167" height="344" frameX="-8" frameY="-3" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0006" x="1761" y="684" width="166" height="343" frameX="-7" frameY="-4" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0007" x="1927" y="684" width="166" height="342" frameX="-5" frameY="-5" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0008" x="2093" y="684" width="167" height="334" frameX="-3" frameY="-13" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0009" x="2261" y="684" width="170" height="336" frameX="-1" frameY="-12" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0010" x="0" y="1038" width="173" height="339" frameX="0" frameY="-9" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0011" x="173" y="1038" width="176" height="338" frameX="0" frameY="-9" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0012" x="350" y="1038" width="178" height="339" frameX="-1" frameY="-9" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0013" x="528" y="1038" width="180" height="339" frameX="-2" frameY="-8" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0014" x="708" y="1038" width="181" height="340" frameX="-3" frameY="-7" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0015" x="890" y="1038" width="182" height="342" frameX="-3" frameY="-6" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0016" x="1072" y="1038" width="182" height="343" frameX="-4" frameY="-5" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0017" x="1255" y="1038" width="182" height="344" frameX="-4" frameY="-3" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0018" x="1437" y="1038" width="182" height="346" frameX="-5" frameY="-2" frameWidth="186" frameHeight="347" />
+	<SubTexture name="Dad idle dance0019" x="1619" y="1038" width="182" height="347" frameX="-5" frameY="-1" frameWidth="186" frameHeight="347" />
+	<SubTexture name="tired0000" x="1801" y="1038" width="182" height="347" pivotX="21" pivotY="7" frameX="-11" frameY="-4" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0001" x="1983" y="1038" width="178" height="347" frameX="-16" frameY="-4" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0002" x="2162" y="1038" width="177" height="346" frameX="-19" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0003" x="0" y="1386" width="173" height="343" frameX="-24" frameY="-8" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0004" x="173" y="1386" width="168" height="338" frameX="-33" frameY="-13" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0005" x="341" y="1386" width="161" height="334" frameX="-43" frameY="-17" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0006" x="503" y="1386" width="151" height="335" frameX="-56" frameY="-16" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0007" x="654" y="1386" width="149" height="338" frameX="-58" frameY="-13" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0008" x="803" y="1386" width="148" height="339" frameX="-58" frameY="-12" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0009" x="951" y="1386" width="146" height="339" frameX="-58" frameY="-12" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0010" x="1097" y="1386" width="146" height="337" frameX="-56" frameY="-14" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0011" x="1244" y="1386" width="148" height="332" frameX="-54" frameY="-19" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0012" x="1392" y="1386" width="147" height="323" frameX="-53" frameY="-28" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0013" x="1539" y="1386" width="153" height="315" frameX="-53" frameY="-36" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0014" x="1693" y="1386" width="159" height="312" frameX="-52" frameY="-39" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0015" x="1852" y="1386" width="162" height="311" frameX="-51" frameY="-40" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0016" x="2015" y="1386" width="163" height="312" frameX="-51" frameY="-39" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0017" x="2178" y="1386" width="164" height="311" frameX="-51" frameY="-40" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0018" x="0" y="1729" width="164" height="309" frameX="-51" frameY="-42" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0019" x="164" y="1729" width="165" height="305" frameX="-52" frameY="-46" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0020" x="329" y="1729" width="168" height="300" frameX="-53" frameY="-51" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0021" x="497" y="1729" width="167" height="301" frameX="-57" frameY="-50" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0022" x="665" y="1729" width="168" height="309" frameX="-58" frameY="-42" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0023" x="833" y="1729" width="173" height="312" frameX="-54" frameY="-39" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0024" x="1006" y="1729" width="179" height="308" frameX="-51" frameY="-43" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0025" x="1185" y="1729" width="176" height="302" frameX="-56" frameY="-49" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0026" x="1362" y="1729" width="177" height="294" frameX="-58" frameY="-57" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0027" x="1539" y="1729" width="174" height="289" frameX="-58" frameY="-62" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0028" x="1713" y="1729" width="169" height="286" frameX="-58" frameY="-65" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0029" x="1883" y="1729" width="157" height="293" frameX="-58" frameY="-58" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0030" x="2040" y="1729" width="133" height="315" frameX="-58" frameY="-36" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0031" x="2173" y="1729" width="123" height="339" frameX="-48" frameY="-12" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0032" x="2297" y="1729" width="146" height="351" frameX="-35" frameY="0" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0033" x="0" y="2080" width="152" height="349" frameX="-26" frameY="-2" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0034" x="152" y="2080" width="173" height="345" frameX="-5" frameY="-6" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0035" x="326" y="2080" width="178" height="346" frameX="0" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0036" x="504" y="2080" width="176" height="346" frameX="-3" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0037" x="680" y="2080" width="176" height="346" frameX="-4" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0038" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0039" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0040" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0041" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0042" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0043" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0044" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0045" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0046" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0047" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0048" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0049" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0050" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0051" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0052" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0053" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0054" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0055" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0056" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0057" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0058" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+	<SubTexture name="tired0059" x="856" y="2080" width="176" height="346" frameX="-5" frameY="-5" frameWidth="234" frameHeight="351" />
+</TextureAtlas>

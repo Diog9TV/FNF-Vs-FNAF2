@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wchica3.png">
+<SubTexture name="Dad Sing Note DOWN0000" x="2890" y="2826" width="602" height="641" frameX="-20" frameY="-29" frameWidth="644" frameHeight="670" />
+<SubTexture name="Dad Sing Note DOWN0001" x="2279" y="2826" width="611" height="651" frameX="-16" frameY="-19" frameWidth="644" frameHeight="670" />
+<SubTexture name="Dad Sing Note LEFT0000" x="3245" y="1381" width="543" height="684" frameX="-22" frameY="-19" frameWidth="607" frameHeight="703" />
+<SubTexture name="Dad Sing Note LEFT0001" x="3245" y="691" width="558" height="690" frameX="-16" frameY="-13" frameWidth="607" frameHeight="703" />
+<SubTexture name="Dad Sing Note RIGHT0000" x="1875" y="2826" width="404" height="669" frameX="-216" frameY="-22" frameWidth="620" frameHeight="691" />
+<SubTexture name="Dad Sing Note RIGHT0001" x="3245" y="2065" width="446" height="676" frameX="-166" frameY="-15" frameWidth="620" frameHeight="691" />
+<SubTexture name="Dad Sing Note UP0000" x="2625" y="1398" width="603" height="696" frameX="-1" frameY="0" frameWidth="644" frameHeight="696" />
+<SubTexture name="Dad Sing Note UP0001" x="0" y="2130" width="614" height="696" frameX="0" frameY="0" frameWidth="644" frameHeight="696" />
+<SubTexture name="Dad idle dance0000" x="1242" y="2826" width="633" height="689" frameX="-30" frameY="-16" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0001" x="2520" y="2130" width="649" height="692" frameX="-19" frameY="-13" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0002" x="614" y="2130" width="668" height="696" frameX="-8" frameY="-9" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0003" x="629" y="1425" width="667" height="704" frameX="-14" frameY="-1" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0004" x="1979" y="0" width="646" height="705" frameX="-31" frameY="0" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0005" x="1979" y="705" width="634" height="705" frameX="-40" frameY="0" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0006" x="1336" y="713" width="630" height="705" frameX="-43" frameY="0" frameWidth="683" frameHeight="705" />
+<SubTexture name="Dad idle dance0007" x="0" y="1425" width="629" height="705" frameX="-44" frameY="0" frameWidth="683" frameHeight="705" />
+<SubTexture name="togheter0000" x="1296" y="1425" width="625" height="703" frameX="-14" frameY="-10" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0001" x="1921" y="1425" width="623" height="702" frameX="-14" frameY="-11" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0002" x="2625" y="0" width="620" height="700" frameX="-16" frameY="-13" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0003" x="2625" y="700" width="620" height="698" frameX="-15" frameY="-15" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0004" x="1282" y="2130" width="619" height="695" frameX="-15" frameY="-18" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0005" x="1901" y="2130" width="619" height="693" frameX="-15" frameY="-20" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0006" x="3245" y="0" width="619" height="691" frameX="-15" frameY="-22" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0007" x="0" y="2826" width="620" height="690" frameX="-15" frameY="-23" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0008" x="620" y="2826" width="622" height="690" frameX="-14" frameY="-23" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0009" x="667" y="713" width="669" height="711" frameX="-5" frameY="-2" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0010" x="0" y="713" width="667" height="712" frameX="-5" frameY="-1" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0011" x="0" y="0" width="663" height="713" frameX="-5" frameY="0" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0012" x="663" y="0" width="659" height="713" frameX="-5" frameY="0" frameWidth="690" frameHeight="713" />
+<SubTexture name="togheter0013" x="1322" y="0" width="657" height="713" frameX="-4" frameY="0" frameWidth="690" frameHeight="713" />
+</TextureAtlas>

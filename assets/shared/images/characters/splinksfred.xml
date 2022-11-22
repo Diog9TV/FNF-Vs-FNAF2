@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="splinksfred.png">
+<SubTexture name="Dad Sing Note DOWN0000" x="0" y="987" width="199" height="284" frameX="-985" frameY="-919" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note DOWN0001" x="408" y="987" width="201" height="280" frameX="-983" frameY="-920" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note DOWN0002" x="609" y="987" width="201" height="276" frameX="-981" frameY="-921" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note LEFT0000" x="0" y="341" width="188" height="333" frameX="-896" frameY="-845" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note LEFT0001" x="188" y="341" width="187" height="332" frameX="-896" frameY="-846" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note LEFT0002" x="375" y="341" width="187" height="330" frameX="-896" frameY="-847" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note RIGHT0000" x="0" y="674" width="187" height="313" frameX="-940" frameY="-867" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note RIGHT0001" x="187" y="674" width="188" height="308" frameX="-947" frameY="-873" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note RIGHT0002" x="735" y="674" width="191" height="302" frameX="-952" frameY="-879" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note UP0000" x="748" y="326" width="147" height="321" frameX="-953" frameY="-872" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note UP0001" x="562" y="341" width="149" height="318" frameX="-953" frameY="-876" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad Sing Note UP0002" x="949" y="317" width="151" height="314" frameX="-953" frameY="-880" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dad idle dance0000" x="379" y="0" width="185" height="337" frameX="-929" frameY="-858" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerdown0000" x="184" y="0" width="195" height="338" frameX="-929" frameY="-850" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerdown0001" x="926" y="674" width="171" height="278" frameX="-946" frameY="-880" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerdown0002" x="1107" y="597" width="165" height="290" frameX="-948" frameY="-883" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerleft0000" x="564" y="0" width="184" height="335" frameX="-915" frameY="-856" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerleft0001" x="748" y="0" width="201" height="326" frameX="-873" frameY="-866" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerleft0002" x="0" y="0" width="184" height="341" frameX="-902" frameY="-847" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerright0000" x="1107" y="0" width="186" height="300" frameX="-929" frameY="-887" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerright0001" x="375" y="674" width="195" height="305" frameX="-917" frameY="-885" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerright0002" x="199" y="987" width="209" height="284" frameX="-936" frameY="-902" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerup0000" x="1107" y="300" width="148" height="297" frameX="-965" frameY="-865" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerup0001" x="949" y="0" width="158" height="317" frameX="-970" frameY="-844" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="angerup0002" x="570" y="674" width="165" height="304" frameX="-955" frameY="-860" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitch0000" x="379" y="0" width="185" height="337" frameX="-929" frameY="-858" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>
